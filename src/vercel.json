@@ -3,7 +3,7 @@
     [
       {
         "src": "/index[^.]+",
-        "dest": "/history",
+        "dest": "/",
         "status": 200
       }
     ]
