@@ -2,7 +2,8 @@
   "rewrites": [
     {
       "src": "/[^.]+",
-      "dest": "/"
+      "dest": "/",
+      "status": 200
     }
   ]
 }
