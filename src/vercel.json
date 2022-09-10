@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "src": "/history",
-      "dest": "/",
+      "dest": "/index.html",
       "status": 200
     }
   ]
