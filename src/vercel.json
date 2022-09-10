@@ -2,8 +2,8 @@
   "rewrites": [
     [
       {
-        "src": "/(.*)",
-        "dest": "/"
+        "src": "/pages/history/(.*)",
+        "destination": "/history"
       }
     ]
   ]
