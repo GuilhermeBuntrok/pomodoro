@@ -2,8 +2,8 @@
   "rewrites": [
     [
       {
-        "src": "/[^.]+",
-        "dest": "/",
+        "src": "/index[^.]+",
+        "dest": "/history",
         "status": 200
       }
     ]
