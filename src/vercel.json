@@ -2,7 +2,7 @@
   "rewrites": [
     [
       {
-        "src": "/index[^.]+",
+        "src": "/(.*)",
         "dest": "/",
         "status": 200
       }
