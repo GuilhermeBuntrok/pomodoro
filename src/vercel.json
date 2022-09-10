@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "src": "/index.tsx",
-      "dest": "/history",
+      "src": "/history",
+      "dest": "/",
       "status": 200
     }
   ]
