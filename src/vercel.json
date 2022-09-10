@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/home"
+    },
+    {
+      "source": "/history",
+      "destination": "/history"
+    }
+  ]
+}
