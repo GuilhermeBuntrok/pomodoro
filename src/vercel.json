@@ -2,7 +2,7 @@
   "rewrites": [
     [
       {
-        "src": "/pages/history/(.*)",
+        "src": "/History(.*)",
         "destination": "/history"
       }
     ]
